@@ -10,34 +10,39 @@
 
   <br/><br/>
 
-  <!-- Star Wars Sticker & Quote -->
-  <p>
-    <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="60" alt="Grogu" style="vertical-align: middle; border-radius: 50%;" />
-    &nbsp; <i>«May the Force be with you.»</i> &nbsp;
-    <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="40" alt="R2D2" style="vertical-align: middle;" />
-  </p>
+  <!-- Star Wars Stickers & Quote -->
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/W1VIKS/W1VIKS/main/assets/yoda.gif" width="80" alt="Yoda" />
+      </td>
+      <td align="center" valign="middle">
+        <h3><i>«May the Force be with you.»</i></h3>
+        <p>
+          <img src="https://img.shields.io/badge/Jedi_Order-Java_Engineer-0a0e14?style=for-the-badge&logo=target&logoColor=00E5FF" alt="Badge" />
+          <img src="https://img.shields.io/badge/May_the_Force-Be_With_You-000000?style=for-the-badge&logo=star-wars&logoColor=FFE81F" alt="Star Wars" />
+        </p>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/W1VIKS/W1VIKS/main/assets/vader.gif" width="120" alt="Vader" />
+      </td>
+    </tr>
+  </table>
 
-  <p>
-    <img src="https://img.shields.io/badge/Jedi_Order-Java_Engineer-0a0e14?style=for-the-badge&logo=target&logoColor=00E5FF" alt="Badge" />
-    <img src="https://img.shields.io/badge/May_the_Force-Be_With_You-000000?style=for-the-badge&logo=star-wars&logoColor=FFE81F" alt="Star Wars" />
-  </p>
+  <!-- Lightsaber Divider -->
+  <img src="https://raw.githubusercontent.com/W1VIKS/W1VIKS/main/assets/lightsaber.gif" width="100%" height="25" />
 
 </div>
 
----
-
 ### 🪐 About Me / Обо мне
 
-```zsh
-$ whoami
-> Sergey (@W1VIKS) — Java Backend Developer & Vibe Lovelace
+> 💻 **Java Backend Engineer & Vibe Lovelace**  
+> Разрабатываю серверные приложения, выстраиваю чистую архитектуру и держу баланс светлой и тёмной стороны в коде.
 
-$ cat info.txt
-- ⚡ Focus: Java Enterprise, Spring Ecosystem & Microservices
-- 🛠 Environment: macOS & Linux terminal dweller
-- 🐳 Containers & Ops: Docker, Git, CI/CD
-- 🌌 Philosophy: Clean code, tested architecture & May the Force be with you
-```
+* ⚡ **Специализация:** Java Enterprise, Spring Ecosystem (Boot, Data), микросервисы
+* 🛠 **Рабочая среда:** macOS & Linux, терминал, Unix-way и кастомный воркфлоу
+* 🐳 **Инфраструктура:** Docker, PostgreSQL, сборка на Gradle & Maven, Git
+* ⚔️ **Философия:** Чистый код, покрытие тестами и непоколебимая архитектура
 
 ---
 
@@ -51,12 +56,12 @@ $ cat info.txt
 
 <div align="center">
 
-| Сфера | Инструменты |
+| Категория | Стек и инструменты |
 | :--- | :--- |
-| **Язык & Ядро** | Java (Core, Collections, Concurrency, Stream API) |
+| **Язык & Core** | Java (Core, Collections, Concurrency, Stream API) |
 | **Фреймворки** | Spring Boot, Spring Data, Hibernate |
 | **Сборка & БД** | Gradle, Maven, PostgreSQL |
-| **Окружение & DevOps** | Docker, Linux, macOS, Git, Bash |
+| **DevOps & ОС** | Docker, Linux, macOS, Git, Bash |
 | **Инструменты** | IntelliJ IDEA, Postman |
 
 </div>
