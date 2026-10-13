@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=W1VIKS&fontSize=52&fontAlignY=38&desc=vibe%20lovelace&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://raw.githubusercontent.com/W1VIKS/W1VIKS/main/assets/banner.svg" width="100%" alt="W1VIKS Banner"/>
 
   <!-- Typing SVG -->
   <a href="https://github.com/W1VIKS">
