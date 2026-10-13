@@ -71,17 +71,16 @@
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=W1VIKS&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" height="175" alt="W1VIKS GitHub Stats" />
+  <!-- Main Stats (Jedi Telemetry with glowing Cyan border) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=W1VIKS&show_icons=true&bg_color=060712&border_color=00E5FF&title_color=00E5FF&text_color=E2E8F0&icon_color=FFE81F&custom_title=JEDI%20TELEMETRY" height="175" alt="W1VIKS GitHub Stats" />
   &nbsp;
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1VIKS&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" height="175" alt="Most Used Languages" />
+  <!-- Top Languages (Circular Donut Chart with glowing Purple border) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1VIKS&layout=donut&bg_color=060712&border_color=BD00FF&title_color=BD00FF&text_color=E2E8F0&custom_title=CODE%20STACK" height="175" alt="Code Stack Donut Chart" />
 
   <br/><br/>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=W1VIKS&theme=tokyonight&hide_border=true&ring=bb9af7&fire=ff9e64&currStreakNum=7aa2f7" alt="GitHub Streak" />
-
+  <!-- Streak Stats (Cyberpunk Neon Hyperspace theme) -->
+  <img src="https://streak-stats.demolab.com/?user=W1VIKS&background=060712&border=BD00FF&stroke=00E5FF&ring=00E5FF&fire=FFE81F&currStreakNum=00E5FF&sideNums=E2E8F0&sideLabels=C084FC&dates=64748B" alt="GitHub Streak" />
 </div>
 
 ---
