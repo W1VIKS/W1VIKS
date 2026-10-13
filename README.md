@@ -40,7 +40,7 @@
 
 * ⚡ **Специализация:** Java Enterprise, Spring Ecosystem (Boot, Data), микросервисы
 * 🛠 **Рабочая среда:** macOS & Linux, терминал, Unix-way и кастомный воркфлоу
-* 🐳 **Инфраструктура:** Docker, PostgreSQL, сборка на Gradle & Maven, Git
+* 🐳 **Инфраструктура:** Docker, PostgreSQL, Git
 
 
 ---
@@ -48,7 +48,7 @@
 ### 🧰 Tech Stack / Стек технологий
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,docker,linux,apple,git,bash,idea,postman&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,linux,apple,git,bash,idea&perline=5" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -58,10 +58,10 @@
 | Категория | Стек и инструменты |
 | :--- | :--- |
 | **Язык & Core** | Java (Core, Collections, Concurrency, Stream API) |
-| **Фреймворки** | Spring Boot, Spring Data, Hibernate |
-| **Сборка & БД** | Gradle, Maven, PostgreSQL |
+| **Фреймворки & ORM** | Spring Boot, Spring Data, Hibernate |
+| **Базы данных** | PostgreSQL |
 | **DevOps & ОС** | Docker, Linux, macOS, Git, Bash |
-| **Инструменты** | IntelliJ IDEA, Postman |
+| **Среда разработки** | IntelliJ IDEA |
 
 </div>
 
