@@ -13,7 +13,7 @@
   <!-- Star Wars Sticker & Quote -->
   <p>
     <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="60" alt="Grogu" style="vertical-align: middle; border-radius: 50%;" />
-    &nbsp; <i>«Do. Or do not. There is no try.»</i> &nbsp;
+    &nbsp; <i>«May the Force be with you.»</i> &nbsp;
     <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="40" alt="R2D2" style="vertical-align: middle;" />
   </p>
 
